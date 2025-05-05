@@ -1,6 +1,6 @@
 # ksptools_app
 
-A new Flutter project.
+Kerbal Space Progaram (KSP) tools, a new Flutter project designed to help aspiring kebonauts determine whether the craft they built has enough deltaV to reach their desired destination. Planned to work on all devices supported by flutter.
 Done:
 - Deltav calc (half)
 - bodies wiki (half)
